@@ -1,0 +1,1 @@
+GROQ_API_key=tour_groq_api_key
